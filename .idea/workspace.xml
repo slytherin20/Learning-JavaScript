@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1cccccf2-c6fb-420d-b719-728696d4f12a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Day-2/constants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day-2/literals.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Portfolio/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Portfolio/portfolio1.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Coding blocks/Todolist/.idea/Todolist.iml" beforeDir="false" />
@@ -40,36 +40,45 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="html" value="1" />
-          <entry key="js" value="8" />
+          <entry key="js" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="1" />
-          <entry key="JavaScript" value="8" />
+          <entry key="JavaScript" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="66" />
-          <entry key="js" value="1930" />
+          <entry key="js" value="3394" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="66" />
-          <entry key="JavaScript" value="1930" />
+          <entry key="JavaScript" value="3394" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day-2/constants.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
               <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day-2/literals.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="269">
+              <caret line="78" column="6" lean-forward="true" selection-start-line="78" selection-start-column="6" selection-end-line="78" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -98,6 +107,7 @@
         <option value="$PROJECT_DIR$/Day-1/Variable_hoisting.js" />
         <option value="$PROJECT_DIR$/Day-1/function_hoisting.js" />
         <option value="$PROJECT_DIR$/Day-2/constants.js" />
+        <option value="$PROJECT_DIR$/Day-2/literals.js" />
       </list>
     </option>
   </component>
@@ -128,6 +138,11 @@
               <item name="Javascript" type="b2602c69:ProjectViewProjectNode" />
               <item name="Javascript" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Javascript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Javascript" type="462c0819:PsiDirectoryNode" />
+              <item name="Day-2" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -154,14 +169,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.constants.js">
+  <component name="RunManager" selected="Node.js.literals.js">
     <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Javascript/Day-1/index.html">
-      <method v="2" />
-    </configuration>
-    <configuration name="HelloWorld.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="HelloWorld.js" working-dir="$PROJECT_DIR$/Day-1">
-      <EXTENSION ID="com.jetbrains.nodejs.run.NodeJSStartBrowserRunConfigurationExtension">
-        <browser name="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
-      </EXTENSION>
       <method v="2" />
     </configuration>
     <configuration name="Variable_scope.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="Variable_scope.js" working-dir="$PROJECT_DIR$/Day-1">
@@ -170,23 +179,26 @@
     <configuration name="constants.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="constants.js" working-dir="$PROJECT_DIR$/Day-2">
       <method v="2" />
     </configuration>
+    <configuration name="literals.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="literals.js" working-dir="$PROJECT_DIR$/Day-2">
+      <method v="2" />
+    </configuration>
     <configuration name="undefined_null_values.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="undefined_null_values.js" working-dir="$PROJECT_DIR$/Day-1">
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Node.js.HelloWorld.js" />
       <item itemvalue="JavaScript Debug.index.html" />
       <item itemvalue="Node.js.undefined_null_values.js" />
       <item itemvalue="Node.js.Variable_scope.js" />
       <item itemvalue="Node.js.constants.js" />
+      <item itemvalue="Node.js.literals.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.literals.js" />
         <item itemvalue="Node.js.constants.js" />
         <item itemvalue="Node.js.Variable_scope.js" />
         <item itemvalue="Node.js.undefined_null_values.js" />
         <item itemvalue="JavaScript Debug.index.html" />
-        <item itemvalue="Node.js.HelloWorld.js" />
       </list>
     </recent_temporary>
   </component>
@@ -201,12 +213,12 @@
       <option name="presentableId" value="Default" />
       <updated>1547474204313</updated>
       <workItem from="1547474205717" duration="3541000" />
-      <workItem from="1547650012344" duration="673000" />
+      <workItem from="1547650012344" duration="2731000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4214000" />
+    <option name="totallyTimeSpent" value="6272000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
@@ -294,6 +306,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day-2/literals.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="78" column="6" lean-forward="true" selection-start-line="78" selection-start-column="6" selection-end-line="78" selection-end-column="6" />
         </state>
       </provider>
     </entry>
