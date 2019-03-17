@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1cccccf2-c6fb-420d-b719-728696d4f12a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Day-4/Loops.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Js_Basics/Variable_assignment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Js_Basics/Closure.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Portfolio/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Portfolio/portfolio1.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Coding blocks/Todolist/.idea/Todolist.iml" beforeDir="false" />
@@ -17,7 +16,6 @@
       <change beforePath="$PROJECT_DIR$/../Coding blocks/Todolist/public/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Coding blocks/Todolist/public/style.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Coding blocks/Todolist/server.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -47,32 +45,32 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="html" value="1" />
-          <entry key="js" value="22" />
+          <entry key="js" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="1" />
-          <entry key="JavaScript" value="22" />
+          <entry key="JavaScript" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="66" />
-          <entry key="js" value="7366" />
+          <entry key="js" value="7602" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="66" />
-          <entry key="JavaScript" value="7366" />
+          <entry key="JavaScript" value="7602" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Js_Basics/Variable_assignment.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
@@ -80,6 +78,15 @@
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Js_Basics/Closure.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -118,6 +125,7 @@
         <option value="$PROJECT_DIR$/Day-3/error_objects.js" />
         <option value="$PROJECT_DIR$/Day-4/Loops.js" />
         <option value="$PROJECT_DIR$/Js_Basics/Variable_assignment.js" />
+        <option value="$PROJECT_DIR$/Js_Basics/Closure.js" />
       </list>
     </option>
   </component>
@@ -148,6 +156,11 @@
               <item name="Javascript" type="b2602c69:ProjectViewProjectNode" />
               <item name="Javascript" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Javascript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Javascript" type="462c0819:PsiDirectoryNode" />
+              <item name="Js_Basics" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -174,8 +187,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.Variable_assignment.js">
-    <configuration name="Finally_block.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="Finally_block.js" working-dir="$PROJECT_DIR$/Day-3">
+  <component name="RunManager" selected="Node.js.Closure.js">
+    <configuration name="Closure.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="Closure.js" working-dir="$PROJECT_DIR$/Js_Basics">
       <method v="2" />
     </configuration>
     <configuration name="Loops.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="Loops.js" working-dir="$PROJECT_DIR$/Day-4">
@@ -191,19 +204,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Node.js.Finally_block.js" />
       <item itemvalue="Node.js.overwriting_by_finally.js" />
       <item itemvalue="Node.js.error_objects.js" />
       <item itemvalue="Node.js.Loops.js" />
       <item itemvalue="Node.js.Variable_assignment.js" />
+      <item itemvalue="Node.js.Closure.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Closure.js" />
         <item itemvalue="Node.js.Variable_assignment.js" />
         <item itemvalue="Node.js.Loops.js" />
         <item itemvalue="Node.js.error_objects.js" />
         <item itemvalue="Node.js.overwriting_by_finally.js" />
-        <item itemvalue="Node.js.Finally_block.js" />
       </list>
     </recent_temporary>
   </component>
@@ -223,12 +236,12 @@
       <workItem from="1550934847499" duration="1543000" />
       <workItem from="1551103612561" duration="2316000" />
       <workItem from="1551184077065" duration="1918000" />
-      <workItem from="1552828498311" duration="995000" />
+      <workItem from="1552828498311" duration="2197000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13988000" />
+    <option name="totallyTimeSpent" value="15190000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
@@ -402,6 +415,13 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Js_Basics/Closure.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
         </state>
       </provider>
     </entry>
