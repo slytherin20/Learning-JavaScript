@@ -49,4 +49,36 @@ console.log(str.search("y"));
 console.log(str.search("[a-z]"));
 
 
-//String.
+//String.slice-extracts a section of the string and returns it as a new string.
+console.log(str.slice(2,7));
+
+
+//string.split
+console.log(str.split("_"));
+
+//string.startsWith()
+console.log(str.startsWith("Slytherin"));
+console.log(str.startsWith("slytherin"));
+
+
+
+//String.substr() and String.substring()
+
+//substr()- returns a string from the index specified int the method.Second argument here represents the length of the returned string.
+console.log(str.substr(2,10));
+//substring() - returns a string in the range given in the method.
+console.log(str.substring(2,10));
+
+
+//String.toLowerCase() and String.toUpperCase()
+console.log(str.toLowerCase());
+console.log(str.toUpperCase());
+
+//String.trim(),String.trimLeft(),String.trimRight()
+//Trim removes whitespaces from the string
+var a="            abc               ";
+console.log(a.trim());
+//TrimLeft removes whitespaces from left side
+console.log(a.trimLeft());
+//trimRight removes right side whitespaces
+console.log(a.trimRight());
