@@ -11,3 +11,20 @@ const greet= greeter();
 console.log(greet.next().value);
 console.log(greet.next().value);
 console.log(greet.next().value);
+console.log(greet.next().value);
+
+function * idCreator(){
+    var i=0;
+    while(true){
+        yield i++;
+    }
+
+}
+const id=idCreator();
+console.log(id.next().value);
+console.log(id.next().value);
+console.log(id.next().value);
+console.log(id.next().value);
+console.log(id.next().value);
+console.log(id.next().value);
+console.log(id.next().value);
