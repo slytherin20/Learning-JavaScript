@@ -1,4 +1,5 @@
 /*We can think of a function's prototype as an object blueprint or paradigm; when we add methods and properties to the prototype, they are accessible to all instances of that function. This is especially useful for inheritance*/
+'use strict';
 function Fruit(type){
     this.type=type;
     this.color='unknown';
