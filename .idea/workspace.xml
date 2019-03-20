@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1cccccf2-c6fb-420d-b719-728696d4f12a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Day-6/Constructor_method.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-6/Inheritance.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-6/Prototype_method.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-6/Static_methods.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Portfolio/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Portfolio/portfolio1.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Coding blocks/Todolist/.idea/Todolist.iml" beforeDir="false" />
@@ -19,7 +15,7 @@
       <change beforePath="$PROJECT_DIR$/../Coding blocks/Todolist/public/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Coding blocks/Todolist/public/style.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Coding blocks/Todolist/server.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day-6/Inheritance.js" beforeDir="false" afterPath="$PROJECT_DIR$/Day-6/Inheritance.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -51,70 +47,38 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="html" value="1" />
-          <entry key="js" value="81" />
+          <entry key="js" value="82" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="1" />
-          <entry key="JavaScript" value="81" />
+          <entry key="JavaScript" value="82" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="66" />
-          <entry key="js" value="17537" />
+          <entry key="js" value="17834" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="66" />
-          <entry key="JavaScript" value="17537" />
+          <entry key="JavaScript" value="17834" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day-6/Classes.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day-6/Classes_declaration.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day-6/Constructor_method.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Day-6/Inheritance.js">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -125,42 +89,6 @@
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day-6/Prototype_method.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day-6/Singleton_class_using_function.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day-6/Static_methods.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day-6/Using_object_literals.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -284,36 +212,36 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.Static_methods.js">
+  <component name="RunManager" selected="Node.js.Inheritance.js">
     <configuration name="Classes_declaration.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="Classes_declaration.js" working-dir="$PROJECT_DIR$/Day-6">
       <method v="2" />
     </configuration>
     <configuration name="Constructor_method.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="Constructor_method.js" working-dir="$PROJECT_DIR$/Day-6">
       <method v="2" />
     </configuration>
-    <configuration name="Prototype_method.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="Prototype_method.js" working-dir="$PROJECT_DIR$/Day-6">
+    <configuration name="Inheritance.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="Inheritance.js" working-dir="$PROJECT_DIR$/Day-6">
       <method v="2" />
     </configuration>
-    <configuration name="Singleton_class_using_function.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="Singleton_class_using_function.js" working-dir="$PROJECT_DIR$/Day-6">
+    <configuration name="Prototype_method.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="Prototype_method.js" working-dir="$PROJECT_DIR$/Day-6">
       <method v="2" />
     </configuration>
     <configuration name="Static_methods.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="Static_methods.js" working-dir="$PROJECT_DIR$/Day-6">
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Node.js.Singleton_class_using_function.js" />
       <item itemvalue="Node.js.Classes_declaration.js" />
       <item itemvalue="Node.js.Constructor_method.js" />
       <item itemvalue="Node.js.Prototype_method.js" />
       <item itemvalue="Node.js.Static_methods.js" />
+      <item itemvalue="Node.js.Inheritance.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Inheritance.js" />
         <item itemvalue="Node.js.Static_methods.js" />
         <item itemvalue="Node.js.Prototype_method.js" />
         <item itemvalue="Node.js.Constructor_method.js" />
         <item itemvalue="Node.js.Classes_declaration.js" />
-        <item itemvalue="Node.js.Singleton_class_using_function.js" />
       </list>
     </recent_temporary>
   </component>
@@ -338,23 +266,23 @@
       <workItem from="1552911635815" duration="4159000" />
       <workItem from="1553002469465" duration="792000" />
       <workItem from="1553049609392" duration="979000" />
-      <workItem from="1553078055624" duration="9389000" />
+      <workItem from="1553078055624" duration="10579000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45317000" />
+    <option name="totallyTimeSpent" value="46507000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32952693" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32952693" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39967373" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -587,16 +515,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day-6/Prototype_property.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day-6/Prototype_method.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -655,8 +573,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Day-6/Prototype_property.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Day-6/Inheritance.js">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
