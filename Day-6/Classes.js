@@ -5,12 +5,11 @@
 function fruit(type){
     this.type=type;
     this.color='unknown';
-    this.getinformation= getFruitInformation;
+    this.getinformation= function(){
+        return 'This '+this.type+' is '+this.color;
+    }
 }
 
-function getFruitInformation(){
-  return 'This '+this.type+' is '+this.color;
-}
 let lime=new fruit('Mexican lime');
 console.log(lime.getinformation());
 lime.color='green';
