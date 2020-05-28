@@ -14,3 +14,4 @@ console.log(obj.key);
 const arr=['a','b'];
 arr.push('c');
 console.log(arr);
+

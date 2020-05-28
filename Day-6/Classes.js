@@ -1,8 +1,10 @@
 //Functional Classes
 //1.Using Functions
 //Define a function,create an object using new keyword,define methods and objects for created objects using this keyword.
+
+//Folos PAscal notation - OneTwoThree
   "use strict";
-function fruit(type){
+function Fruit(type){
     this.type=type;
     this.color='unknown';
     this.getinformation= function(){
@@ -10,7 +12,7 @@ function fruit(type){
     }
 }
 
-let lime=new fruit('Mexican lime');
+let lime=new Fruit('Mexican lime');
 console.log(lime.getinformation());
 lime.color='green';
 console.log(lime.getinformation());

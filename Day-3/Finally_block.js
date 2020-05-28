@@ -16,4 +16,4 @@ function f(){
     console.log(6);
 
 }
-f();
+console.log(f());

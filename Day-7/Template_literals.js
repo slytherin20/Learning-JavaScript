@@ -38,9 +38,9 @@ Division ${a/b}`;
 function fuu(strings,...values){
     x=values[0];
     y=values[1];
-    return `Sum ${a+b}
-Product ${a*b}`;
+    return `Sum ${x+y}
+Product ${x*y}`;
 }
-console.log(fuu`Num1 ${a+b}
-Num2 ${a*b}`);
+console.log(fuu`Num1 ${x+y}
+Num2 ${x*y}`);
 

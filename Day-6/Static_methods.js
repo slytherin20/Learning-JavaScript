@@ -7,12 +7,18 @@ class Point{
         this.x=x;
         this.y=y;
     }
-    static distance(a,b){
+     static distance(a,b){
         const dx=a.x-b.x;
         const dy=a.y-b.y;
         return Math.sqrt(dx**2-dy**2);
     }
+   static color(x,y){
+       const colorx = x;
+       const colory = y;
+       return `The x-coordinate is ${colorx} in color and y coordinate is ${colory} in color.`
+   }
 }
 const p1=new Point(2,3);
 const p2=new Point(5,5);
 console.log(Point.distance(p1,p2));
+console.log(Point.color("RED","GREEN"));

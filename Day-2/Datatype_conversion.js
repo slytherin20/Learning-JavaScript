@@ -3,10 +3,12 @@
 var str="this number is"+900;
 console.log(str);
 
+//String to numeric
+
 var num="360"-60;
 console.log(num);
+console.log(typeof(num));
 
-//String to numeric
  console.log('1.1'+'1.1');
  var a=(+'1.1')+(+'1.1');
  console.log(a);

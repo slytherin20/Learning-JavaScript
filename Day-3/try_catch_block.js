@@ -9,10 +9,11 @@ function getMonthName(mo){
 
 try{
 
-    monthName=getMonthName(myMonth);
+    monthName=getMonthName(-100);
     console.log(monthName);
 }
 catch(e){
-    monthName='Unknown';
-    console.log(monthName);
+    console.log(e);
+   // monthName='Unknown';
+    //console.log(monthName);
 }

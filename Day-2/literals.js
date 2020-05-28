@@ -62,7 +62,7 @@ console.log(re);
 
 
 //String Literal
-var str="Hi this is a srting";
+var str="Hi this is a string";
 var str1='this is another string';
 var str2="I didn't know Js before this.";
 console.log(str);

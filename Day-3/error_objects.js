@@ -1,5 +1,5 @@
 function f(){
-    throw new Error('The message');
+    throw new Error('The message');                   //Error Constructor
 }
 try{
     f();

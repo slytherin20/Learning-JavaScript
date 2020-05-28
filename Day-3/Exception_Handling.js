@@ -9,8 +9,8 @@ function User(UserId){
 }
 
 User.prototype.toString=function(){
-    return this.name+" "+this.id+".";
-}
+     return this.name+" "+this.id+".";
+};
 
 
 throw new User(25);

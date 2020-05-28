@@ -6,9 +6,11 @@ if(true){
 }
 console.log(x);//returns 5
 
-//When let is introduced in ECMA2015
+// When let is introduced in ECMA2015
 if(true){
     let y=5;
 
 }
 console.log(y);//throws ReferenceError:y is not defined
+
+
