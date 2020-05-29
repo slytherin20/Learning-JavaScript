@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Button</title>
+</head>
+<body>
+<p>Button example</p>
+<script>
+    var buttonElement = document.createElement('button');
+    buttonElement.id = "buttonclickable";
+    buttonElement.innerHTML = "Click Me";
+    buttonElement.style.backgroundColor = "#ff2177";
+    document.body.appendChild(buttonElement);
+
+    const getButton = document.getElementById("buttonclickable");
+    getButton.onclick = function(){
+        getButton.innerHTML = "I was clicked!!"
+    }
+
+    //Using addeventlistener
+    getButton.addEventListener("click",function(){
+        getButton.innerHTML = "Visit"
+    })
+</script>
+</body>
+</html>
