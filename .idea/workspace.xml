@@ -2,29 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1cccccf2-c6fb-420d-b719-728696d4f12a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Day-7/Arrow Function.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-7/BitwiseOperator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day-7/Date Object.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Factory_functions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Js_Basics/Cloning_of_objects.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/piilars_of_oops.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Js_Basics/Storage Web API.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day-1/HelloWorld.js" beforeDir="false" afterPath="$PROJECT_DIR$/Day-1/HelloWorld.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day-1/Variable_hoisting.js" beforeDir="false" afterPath="$PROJECT_DIR$/Day-1/Variable_hoisting.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day-1/Variable_scope.js" beforeDir="false" afterPath="$PROJECT_DIR$/Day-1/Variable_scope.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day-2/Datatype_conversion.js" beforeDir="false" afterPath="$PROJECT_DIR$/Day-2/Datatype_conversion.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day-2/constants.js" beforeDir="false" afterPath="$PROJECT_DIR$/Day-2/constants.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day-2/literals.js" beforeDir="false" afterPath="$PROJECT_DIR$/Day-2/literals.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day-3/Conditional_Statements.js" beforeDir="false" afterPath="$PROJECT_DIR$/Day-3/Conditional_Statements.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day-3/Exception_Handling.js" beforeDir="false" afterPath="$PROJECT_DIR$/Day-3/Exception_Handling.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day-3/Finally_block.js" beforeDir="false" afterPath="$PROJECT_DIR$/Day-3/Finally_block.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day-3/error_objects.js" beforeDir="false" afterPath="$PROJECT_DIR$/Day-3/error_objects.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day-3/overwriting_by_finally.js" beforeDir="false" afterPath="$PROJECT_DIR$/Day-3/overwriting_by_finally.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day-3/try_catch_block.js" beforeDir="false" afterPath="$PROJECT_DIR$/Day-3/try_catch_block.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day-5/String_constructor.js" beforeDir="false" afterPath="$PROJECT_DIR$/Day-5/String_constructor.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day-6/Classes.js" beforeDir="false" afterPath="$PROJECT_DIR$/Day-6/Classes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day-6/Static_methods.js" beforeDir="false" afterPath="$PROJECT_DIR$/Day-6/Static_methods.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day-7/Template_literals.js" beforeDir="false" afterPath="$PROJECT_DIR$/Day-7/Template_literals.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -39,60 +18,83 @@
     <session id="-1013327903">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="14" />
+          <entry key="project.closed" value="18" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.30" value="1" />
-          <entry key="project.open.time.34" value="1" />
-          <entry key="project.open.time.35" value="3" />
+          <entry key="project.open.time.34" value="2" />
+          <entry key="project.open.time.35" value="4" />
           <entry key="project.open.time.36" value="1" />
           <entry key="project.open.time.38" value="2" />
+          <entry key="project.open.time.39" value="1" />
           <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.40" value="1" />
           <entry key="project.open.time.61" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="17" />
+          <entry key="project.opened" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="3" />
-          <entry key="js" value="131" />
+          <entry key="html" value="4" />
+          <entry key="js" value="138" />
           <entry key="ts" value="2" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="3" />
-          <entry key="JavaScript" value="131" />
+          <entry key="HTML" value="4" />
+          <entry key="JavaScript" value="138" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="TypeScript" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="66" />
-          <entry key="js" value="20164" />
+          <entry key="html" value="336" />
+          <entry key="js" value="21423" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="66" />
-          <entry key="JavaScript" value="20164" />
+          <entry key="HTML" value="336" />
+          <entry key="JavaScript" value="21423" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day-7/Date Object.js">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Js_Basics/Array_methods.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="42" column="42" selection-start-line="42" selection-start-column="42" selection-end-line="42" selection-end-column="42" />
+            <state relative-caret-position="795">
+              <caret line="54" column="17" selection-start-line="54" selection-start-column="17" selection-end-line="54" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Js_Basics/Callbacks.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Js_Basics/Storage Web API.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -154,6 +156,10 @@
         <option value="$PROJECT_DIR$/Day-7/Arrow Function.js" />
         <option value="$PROJECT_DIR$/Day-7/BitwiseOperator.js" />
         <option value="$PROJECT_DIR$/Day-7/Date Object.js" />
+        <option value="$PROJECT_DIR$/Day-7/Regex.js" />
+        <option value="$PROJECT_DIR$/Day-7/JSButtons.js" />
+        <option value="$PROJECT_DIR$/Day-7/index.html" />
+        <option value="$PROJECT_DIR$/Js_Basics/Storage Web API.js" />
       </list>
     </option>
   </component>
@@ -225,36 +231,36 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.Date Object.js">
-    <configuration name="Arrow Function.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="Arrow Function.js" working-dir="$PROJECT_DIR$/Day-7">
-      <method v="2" />
-    </configuration>
-    <configuration name="BitwiseOperator.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="BitwiseOperator.js" working-dir="$PROJECT_DIR$/Day-7">
+  <component name="RunManager" selected="Node.js.Storage Web API.js">
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Javascript/Day-7/index.html">
       <method v="2" />
     </configuration>
     <configuration name="Date Object.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="Date Object.js" working-dir="$PROJECT_DIR$/Day-7">
       <method v="2" />
     </configuration>
-    <configuration name="Singleton_class_using_function.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="Singleton_class_using_function.js" working-dir="$PROJECT_DIR$/Day-6">
+    <configuration name="JSButtons.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="JSButtons.js" working-dir="$PROJECT_DIR$/Day-7">
       <method v="2" />
     </configuration>
-    <configuration name="Template_literals.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="Template_literals.js" working-dir="$PROJECT_DIR$/Day-7">
+    <configuration name="Regex.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="Regex.js" working-dir="$PROJECT_DIR$/Day-7">
+      <method v="2" />
+    </configuration>
+    <configuration name="Storage Web API.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="Storage Web API.js" working-dir="$PROJECT_DIR$/Js_Basics">
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Node.js.Singleton_class_using_function.js" />
-      <item itemvalue="Node.js.Template_literals.js" />
-      <item itemvalue="Node.js.Arrow Function.js" />
-      <item itemvalue="Node.js.BitwiseOperator.js" />
       <item itemvalue="Node.js.Date Object.js" />
+      <item itemvalue="Node.js.Regex.js" />
+      <item itemvalue="Node.js.JSButtons.js" />
+      <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="Node.js.Storage Web API.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Storage Web API.js" />
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="Node.js.JSButtons.js" />
+        <item itemvalue="Node.js.Regex.js" />
         <item itemvalue="Node.js.Date Object.js" />
-        <item itemvalue="Node.js.BitwiseOperator.js" />
-        <item itemvalue="Node.js.Arrow Function.js" />
-        <item itemvalue="Node.js.Template_literals.js" />
-        <item itemvalue="Node.js.Singleton_class_using_function.js" />
       </list>
     </recent_temporary>
   </component>
@@ -284,30 +290,34 @@
       <workItem from="1553097470491" duration="107000" />
       <workItem from="1590554196215" duration="6066000" />
       <workItem from="1590580324008" duration="2114000" />
-      <workItem from="1590641751178" duration="9732000" />
+      <workItem from="1590641751178" duration="12685000" />
+      <workItem from="1590721930044" duration="1114000" />
+      <workItem from="1590724114541" duration="1971000" />
+      <workItem from="1590987829145" duration="489000" />
+      <workItem from="1591935908929" duration="1296000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65151000" />
+    <option name="totallyTimeSpent" value="72974000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="481" y="45" width="705" height="734" extended-state="0" />
+    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.0" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3299373" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33443707" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32952693" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39967373" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32952693" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -340,14 +350,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Day-1/Variable_declaration.js" />
-    <entry file="file://$PROJECT_DIR$/Js_Basics/Spread_syntax.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Js_Basics/Destructuring.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -509,13 +511,7 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor" />
@@ -622,16 +618,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="356">
           <caret line="35" column="17" lean-forward="true" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Js_Basics/Array_methods.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="730">
-          <caret line="54" column="17" selection-start-line="54" selection-start-column="17" selection-end-line="54" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -639,13 +625,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Js_Basics/Callbacks.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="40" column="53" selection-start-line="40" selection-start-column="53" selection-end-line="40" selection-end-column="53" />
         </state>
       </provider>
     </entry>
@@ -665,8 +644,41 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day-7/Date Object.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="42" column="42" selection-start-line="42" selection-start-column="42" selection-end-line="42" selection-end-column="42" />
+        <state relative-caret-position="96">
+          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day-7/Regex.js" />
+    <entry file="file://$PROJECT_DIR$/Day-7/JSButtons.js" />
+    <entry file="file://$PROJECT_DIR$/Day-7/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="37" lean-forward="true" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Js_Basics/Array_methods.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="54" column="17" selection-start-line="54" selection-start-column="17" selection-end-line="54" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Js_Basics/Callbacks.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Js_Basics/Storage Web API.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
