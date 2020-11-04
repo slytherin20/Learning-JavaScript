@@ -1,3 +1,5 @@
+"strict mode";
+
 function URLify(str){
     let strList = str.split(" ");
     let strList1 = [];
